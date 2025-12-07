@@ -333,7 +333,7 @@ export default function Home() {
                     Trending repositories
                   </h3>
                   <div className="space-y-4">
-                    {repositories.slice(0, 3).map((repo) => (
+                    {repositories.slice(0, 6).map((repo) => (
                       <div
                         key={repo.id}
                         className="bg-white border border-gray-200 rounded-lg p-4 sm:p-6 hover:border-indigo-300 hover:shadow-md transition-all"

@@ -83,6 +83,90 @@ const REPOSITORIES = [
     updatedAt: '2024-01-11',
     isPrivate: false,
     topics: ['python', 'visualization', 'data-science']
+  },
+  {
+    id: 6,
+    name: 'react-ui-kit',
+    owner: 'alice',
+    description: 'A comprehensive React component library with beautiful designs',
+    stars: 1890,
+    forks: 432,
+    language: 'TypeScript',
+    updatedAt: '2024-01-16',
+    isPrivate: false,
+    topics: ['react', 'typescript', 'ui', 'components']
+  },
+  {
+    id: 7,
+    name: 'node-auth',
+    owner: 'bob',
+    description: 'Secure authentication middleware for Node.js applications',
+    stars: 1567,
+    forks: 321,
+    language: 'JavaScript',
+    updatedAt: '2024-01-15',
+    isPrivate: false,
+    topics: ['nodejs', 'authentication', 'security', 'jwt']
+  },
+  {
+    id: 8,
+    name: 'machine-learning',
+    owner: 'charlie',
+    description: 'Machine learning algorithms and models implementation',
+    stars: 3421,
+    forks: 890,
+    language: 'Python',
+    updatedAt: '2024-01-17',
+    isPrivate: false,
+    topics: ['python', 'machine-learning', 'ai', 'tensorflow']
+  },
+  {
+    id: 9,
+    name: 'vue-dashboard',
+    owner: 'diana',
+    description: 'Modern dashboard built with Vue.js and Tailwind CSS',
+    stars: 987,
+    forks: 234,
+    language: 'Vue',
+    updatedAt: '2024-01-14',
+    isPrivate: false,
+    topics: ['vue', 'dashboard', 'tailwind', 'frontend']
+  },
+  {
+    id: 10,
+    name: 'docker-utils',
+    owner: 'eve',
+    description: 'Collection of useful Docker utilities and scripts',
+    stars: 654,
+    forks: 156,
+    language: 'Shell',
+    updatedAt: '2024-01-13',
+    isPrivate: false,
+    topics: ['docker', 'devops', 'shell', 'automation']
+  },
+  {
+    id: 11,
+    name: 'graphql-api',
+    owner: 'frank',
+    description: 'Production-ready GraphQL API with authentication and subscriptions',
+    stars: 2134,
+    forks: 567,
+    language: 'TypeScript',
+    updatedAt: '2024-01-16',
+    isPrivate: false,
+    topics: ['graphql', 'typescript', 'api', 'subscriptions']
+  },
+  {
+    id: 12,
+    name: 'blockchain-explorer',
+    owner: 'grace',
+    description: 'Blockchain explorer and analytics platform',
+    stars: 2876,
+    forks: 789,
+    language: 'JavaScript',
+    updatedAt: '2024-01-18',
+    isPrivate: false,
+    topics: ['blockchain', 'crypto', 'web3', 'analytics']
   }
 ];
 
